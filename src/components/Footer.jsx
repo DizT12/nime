@@ -7,9 +7,9 @@ const Footer = () => (
         <img src="https://raw.githubusercontent.com/alip-jmbd/alipp/main/icon-rbg.png" alt="NefuSoft" className="w-20 md:w-28 aspect-square object-contain mb-4" />
       </div>
       <div className="text-center md:text-left">
-        <h4 className="text-white font-black mb-3 text-sm tracking-wide">Tentang NefuSoft</h4>
+        <h4 className="text-white font-black mb-3 text-sm tracking-wide">Tentang Hanznime</h4>
         <p className="text-[10px] md:text-xs text-white/50 leading-relaxed font-medium">
-          NefuSoft adalah platform streaming anime pihak ketiga. Kami tidak mengunggah atau menyimpan file video apa pun di server kami. Semua konten disediakan oleh pihak ketiga yang tidak terafiliasi dengan kami.
+          Hanznime adalah platform streaming anime pihak ketiga. Kami tidak mengunggah atau menyimpan file video apa pun di server kami. Semua konten disediakan oleh pihak ketiga yang tidak terafiliasi dengan kami.
         </p>
       </div>
       <div className="text-center md:text-left flex flex-col items-center md:items-start">
